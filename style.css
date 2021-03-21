@@ -11,7 +11,7 @@ body {
 }
 /* 캔버스 css */
 .canvas {
-  width: 700px;
+  width: 500px;
   height: 500px;
   background-color: white;
   border-radius: 19px;
